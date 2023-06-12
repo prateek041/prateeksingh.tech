@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 800 800"><defs><radialGradient id="cccircular-grad" r="50%" cx="50%" cy="50%">
+       <stop offset="0%" stop-color="#404040" stop-opacity="0.5"></stop>
+       <stop offset="50%" stop-color="hsl(0, 0%, 42%)" stop-opacity="0.5"></stop>
+        <stop offset="100%" stop-color="#999999" stop-opacity="0.5"></stop>
+      </radialGradient></defs><g fill="url(#cccircular-grad)"><circle r="176" cx="400" cy="800" opacity="0.05"></circle><circle r="154" cx="400" cy="800" opacity="0.19"></circle><circle r="132" cx="400" cy="800" opacity="0.32"></circle><circle r="110" cx="400" cy="800" opacity="0.46"></circle><circle r="88" cx="400" cy="800" opacity="0.59"></circle><circle r="66" cx="400" cy="800" opacity="0.73"></circle><circle r="44" cx="400" cy="800" opacity="0.86"></circle></g></svg>

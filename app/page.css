@@ -1,0 +1,26 @@
+.home-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: url(../public/circular.svg) no-repeat center center;
+}
+
+.home-second {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  height: 100vh;
+  font-size: 1.5rem;
+}
+
+.home-main-text {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.home-second-text {
+  font-size: 12rem;
+  font-weight: 400;
+}
